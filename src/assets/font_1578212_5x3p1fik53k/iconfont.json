@@ -1,0 +1,37 @@
+{
+  "id": "1578212",
+  "name": "花色",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "129183",
+      "name": "spades",
+      "font_class": "spades",
+      "unicode": "e86c",
+      "unicode_decimal": 59500
+    },
+    {
+      "icon_id": "400634",
+      "name": "clubs",
+      "font_class": "clubs",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "1199094",
+      "name": "diamonds",
+      "font_class": "diamonds",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1261797",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    }
+  ]
+}

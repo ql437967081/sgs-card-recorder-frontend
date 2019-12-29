@@ -1,0 +1,39 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1577087663131'); /* IE9 */
+  src: url('iconfont.eot?t=1577087663131#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPcAAsAAAAAB/wAAAOPAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDGIMCATYCJAMUCwwABCAFhG0HSxsRB8gekiQlURT4AUABAKg5gvj9aLNP/v1zTa7N22GJRCaJJRqhQeuaLSSieAl3lVNXAUI5xKT8ajo5SkUDLqCSMr8QX0i/AMou4xNYCfjAfnBN/RT/xdnbXCKTMq1xgOMBDSw6yDagifKGsSsvYjOBLnNSYJd1LT3gpDB6BeIBZdKBU8qg1OSGVmhKJhaI11C1aZ3NFwCv/O/Hf8gKJ5DUDMZWd+7XGqHiF3ygbWWVe1mGl+PZwKaRsQ4U4lmp4wHbMLzOVpfyOzunQJdWkn7Bu4PvTn+gVRVVsiNVl/mHR5YUQTRgZPeAUxQp/AKbJvPrIE3i12mawh9adC+ZFXSVZ3kBvMHkjDLMBSbL7cIXWyx92BAWs7M9sw8Jd8kCcI+rlj7l8eL1swk7L8fstyaftmINeJVNZSXxpBJ+7GrAKYtL0qsovRu0pD3X4mdnW3og4y85esX/pOJqtRIWy2IjMunWB5C7T929a8GGrK4blLEbiadvTYSD5R7jzuyomE1zV56JqALA5UJuaujLkX8lLxe697cu/BMnx/1pFbgyN7s4ZO78SG3WjF2n6Ss5PWueaFpTMUI099mYXNeKEanpBZ6syem5QtPXx5o1qQQmmbF+xEVDCCy1OWpsbPNSW65nHz+alPcSbB8v3Tw2VlTaJAXwLJer5iGu89pnJGpyLgSFdMQt27pJjmkI+nm/pub+T18bI6fX+Ts8bOjbB8cA13L+ZitD5FSqGtGPdpCP/uduro6qb8zxLPnm5GoH8DVux3mUoq4qI/0EP0WptfDv6QrUIEtUsWGoReaViy6VF+erAtVJS1fiR5X8M8+QZ+NoRt+HLbQpcQ9Xh1kFstY8Wsh1qLrtexrtbNEua+rh9G7DBLaiOAOrVgEIA85D0ucDZAPG0EI+hWrMV2gMhC10uRu+C3ZbDMqlWkA6CRlx/UKcMnAsaZkllyC3C5nMtE5Iin2qDwki5cMz0zKysXrEImGMIeI8U5YkkTgpcAxeB7ZDNM3hvMANIoOUNiBJfFF6Oln2pjQDx4CLCwJER4IY4fQWwlEMOCzSrS1xyX2+C2JiRtMRaioqnH0QgYhqHJcpTUYLtF7Btqq4lmtE85hkkUhIOJKAw8DVgXYIjcbB8eXtBiEGkjQDPYK8IulmNbKtIm1+FfOM66CL8cIaNpgtZofZYw7QPOd1RiTaG2izXnQyUjqGY42i/QDSCRIAAA==') format('woff2'),
+  url('iconfont.woff?t=1577087663131') format('woff'),
+  url('iconfont.ttf?t=1577087663131') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1577087663131#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="icon-"], [class*=" icon-"]/*这里有空格*/
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-spades:before {
+  content: "\e86c";
+  color: #222222;
+}
+
+.icon-clubs:before {
+  content: "\e6a1";
+  color: #222222;
+}
+
+.icon-diamonds:before {
+  content: "\e600";
+  color: #bd2c00;
+}
+
+.icon-heart:before {
+  content: "\e6ab";
+  color: #bd2c00;
+}
+
